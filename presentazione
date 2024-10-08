@@ -1,6 +1,5 @@
 Da: Alì moukafih <ali.moukafih08@gmail.com>
 Date: mar 8 ott 2024 alle ore 17:19
-Subject:
 To: <ali.moukafih@jcmaxwell.it>
 
 
@@ -45,7 +44,7 @@ To: <ali.moukafih@jcmaxwell.it>
 <body>
 
 <header>
-    <h1>Profilo di Nome Cognome</h1>
+    <h1>Presentazione ali moukafih</h1>
 </header>
 
 <section id="informazioni-personali">
@@ -96,7 +95,7 @@ To: <ali.moukafih@jcmaxwell.it>
 
 <section id="elemento-visivo">
     <h2>una foto che mi rappresenta/h2>
-    <img src=""C:\Users\alimo\Downloads\cover-1708706221553-Plutone.jpeg".jpg" alt="Immagine di plutone">
+    <img src=""C:\Users\alimo\Downloads\cover-1708706221553-Plutone.jpg" alt="Immagine di plutone">
 </section>
 
 </body>
