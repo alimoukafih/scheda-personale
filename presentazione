@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scheda Personale</title>
+    <style>
+        body {
+          
+        }
+    </style>
+</head>
+<body>
+    <h1>Scheda Personale di [Alì Moukafih]</h1>
+
+    <div class="section">
+        <h2>Informazioni Personali</h2>
+        <div class="content">
+            <p><strong>Nome e Cognome:</strong> [Alì]</p>
+            <p><strong>Età:</strong> [15 anni]</p>
+            <p><strong>Classe e Istituto:</strong> [terza b informatica al jcmaxwell]</p>
+            <p><strong>Data di Nascita:</strong> [20 novembre del 2008]</p>
+            <p><strong>Luogo di Residenza:</strong> [Nichelino TO]</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Chi sono</h2>
+        <div class="content">
+            <p>["sono di origini marocchine adoro il basket dipingere e osservare le stelle adoro passare tempo con gli amici"]</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Interessi e Passioni</h2>
+        <div class="content">
+            <ul>
+                <li><strong>[warhammer]</strong>: [gioco da tavolo con mignature da costruire e dipingere]</li>
+                <li><strong>[astronomia]</strong>: [una passione che mi porto avanti da tanti anni adoro lo spazio e l'ignoto]</li>
+                <li><strong>[il fashion]</strong>: [adoro vestirmi inmodi diversi dal normale pensando ad outfit che possamo attirare l'attenzione]</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Competenze</h2>
+        <div class="content">
+            <ul>
+                <li><strong>[parlo inglese quasi alla perfezione]</strong>: [grazie a passioni come videogiochi,serie,film e altro sono riuscito fin da piccolo a imparare l'inglese in modo passivo]</li>
+                <li><strong>[Creatività]</strong>: [sono una persona molto creativa che riesce a trovare idee per tutto]</li>
+                <li><strong>[ho gia un po di esperienza lavorativa]</strong>: [ormai da 2 anni lavoro come cameriere al ristorante carletto dove ormai sono diventato un portento e riesco a portare soldi a casa per il futuro]</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Obiettivi Futuri</h2>
+        <div class="content">
+            <p>[dopo le superiori vorrei raggiungere mio fratello ad amsterdam dove avro l'opportunità di studiare astrofisica il mio obbiettivo è una triennale una magistrale e un dottorato e po da li fare il lavoro dei miei sogni ovvero l'astronomo]."]</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Citazione Ispiratrice</h2>
+        <div class="content">
+            <p class="quote">"[We've always defined ourselves by the ability to overcome the impossible. And we count these moments. These moments when we dare to aim higher, to break barriers, to reach for the stars, to make the unknown known. We count these moments as our proudest achievements. But we lost all that. Or perhaps we've just forgotten that we are still pioneers. And we've barely begun. And that our greatest accomplishments cannot be behind us, that our destiny lies above us.]"</p>
+            <p>[l'ho presa dal mio film preferito]</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Elemento Visivo</h2>
+        <div class="content">
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.focus.it%2Fscienza%2Fspazio%2Fle-nuove-foto-in-hd-di-plutone&psig=AOvVaw1b-g7FpCmHrLGUYplzWI-G&ust=1728500701384000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjwxoO9_4gDFQAAAAAdAAAAABAE" alt="il quanto siamo piccoli nell'universo e il quanto quello che faremo contera poco">
+
+        </div>
+    </div>
+</body>
+</html>
